@@ -15,3 +15,4 @@ https://www.amazon.com/dp/B07RNX3W9J?psc=1&ref=ppx_yo2ov_dt_b_product_details
   
 UCTRONICS 0.96 Inch OLED Module 12864 128x64 Yellow Blue SSD1306 Driver I2C Serial Self-Luminous Display Board for Arduino Raspberry Pi Pico
 https://www.amazon.com/dp/B072Q2X2LL?psc=1&ref=ppx_yo2ov_dt_b_product_details
+ 
