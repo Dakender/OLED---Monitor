@@ -1,10 +1,10 @@
 # OLED---Monitor
 .ino file for my working OLED Duco Coin Monitor
 
-I am by no means an expert at all this.
-This file is a hack/cut/paste of about 20 other vids/docs/word of mouth/etc.
-I finally got it working so that is all that really mattered to me.
-I'm sure there are a bunch of lines that could be removed to clean it up, but wasn't willing to take the chance once it was working....
+* I am by no means an expert at all this.
+* This file is a hack/cut/paste of about 20 other vids/docs/word of mouth/etc.
+* I finally got it working so that is all that really mattered to me.
+* I'm sure there are a bunch of lines that could be removed to clean it up, but wasn't willing to take the chance once it was working....
  
 Here is the hardware I used.  
 All from Amazon.  
